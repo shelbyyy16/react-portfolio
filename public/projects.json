@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Cart Quest",
+      "live": "https://shelbyyy16.github.io/Cart-Quest-Browser-Game/",
+      "git": "https://github.com/shelbyyy16/Cart-Quest-Browser-Game",
+      "image": "/images/Cart Screenshot.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Joystick Jury",
+      "live": "https://shelbyyy16.github.io/Cart-Quest-Browser-Game/",
+      "git": "https://github.com/BrObando/Project-2",
+      "image": "/images/joystickJury.png"
     }
   ]

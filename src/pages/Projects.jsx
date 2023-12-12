@@ -19,22 +19,25 @@ function Projects() {
   };
 
   
-  useEffect(() => getProjectsData(), []);
+  useEffect(() => {
+    getProjectsData() 
+  }, []);
 
 
   const loaded = () => {
-    return projects.map((project) => (
-      <div>
+    return (projects.map((project) => (
+      <div key={project.id} className="projects">
         <h1>{project.name}</h1>
-        <img src={project.image} />
+        <img src={project.image} alt={project.name} className="projects-img"/>
+        <br></br>
         <a href={project.git}>
           <button>Github</button>
-        </a>
-        <a href={project.live}>
+        </a><a href={project.live}>
           <button>live site</button>
         </a>
       </div>
-    ));
+    
+    )));
   };
 
   return projects ? loaded() : <h1>Loading...</h1>;
