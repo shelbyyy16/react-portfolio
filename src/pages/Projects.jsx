@@ -30,6 +30,7 @@ function Projects() {
         <h1>{project.name}</h1>
         <img src={project.image} alt={project.name} className="projects-img"/>
         <br></br>
+        <p>{project.description}</p>
         <div className="button-container"><a href={project.git}>
           <button>Github</button>
         </a><a href={project.live}>
