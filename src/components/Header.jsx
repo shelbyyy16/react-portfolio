@@ -4,8 +4,7 @@ function Header() {
 
   const navStyle = {
     display: "flex",
-    justifyContent: "space-around",
-    borderBottom: ".2rem solid black",
+    justifyContent: "flex-end",
     padding: ".5rem",
     width: "100%",
     margin: "auto",
@@ -16,16 +15,16 @@ function Header() {
       <div className="NAV">
       <nav style={navStyle}>
         <Link to="/">
-          <div>HOME</div>
+          <div className="home-nav">HOME</div>
         </Link>
         <Link to="/about">
-          <div>ABOUT</div>
+          <div className="about-nav">ABOUT</div>
         </Link>
         <Link to="/projects">
-          <div>PROJECTS</div>
+          <div className="projects-nav">PROJECTS</div>
         </Link>
-        <Link to="/resume">
-          <div>RESUME</div>
+        <Link to="/contact">
+          <div className="contact-nav">CONTACT</div>
         </Link>
       </nav>
       </div>

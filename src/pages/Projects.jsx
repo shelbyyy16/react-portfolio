@@ -30,11 +30,11 @@ function Projects() {
         <h1>{project.name}</h1>
         <img src={project.image} alt={project.name} className="projects-img"/>
         <br></br>
-        <a href={project.git}>
+        <div className="button-container"><a href={project.git}>
           <button>Github</button>
         </a><a href={project.live}>
-          <button>live site</button>
-        </a>
+          <button>Live Site</button>
+        </a></div>
       </div>
     
     )));
