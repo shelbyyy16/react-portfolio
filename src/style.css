@@ -16,11 +16,45 @@ a:hover {
 body {
   background-color: #3A4D39;
   color: #ECE3CE;
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Abel', sans-serif;
   line-height: 1.5;
   font-weight: 400;
   margin: 0;
 }
+
+/* NAV BAR */
+
+.NAV {
+  background-color: black;
+}
+
+/* HOME PAGE */
+
+.home {
+  margin: 0;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+.home h1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 60px;
+  margin: 0;
+}
+
+.home h2 {
+  font-family: 'Anton', sans-serif;
+  font-size: 60px;
+  color: #e6ddc9;
+  margin: 0;
+}
+
+.home-about {
+  width: 30%;
+}
+
+
+
 /* PROJECT PAGE */
 .projects {
   text-align: center; 

@@ -1,11 +1,13 @@
 function Home() {
     return (
-      <div className="Home">
-    <h5>Hi, my name is</h5>
-    <h1>Shelby Pagan</h1>
+      <div className="home">
+    <p>Hi, my name is</p>
+    <h1>Shelby Pagan.</h1>
     <h2>Welcome to my corner of the internet.</h2>
-    <h3></h3>
-    </div>
+    <div className="home-about">
+    <p>Full Stack Developer and former critical care nurse with a strong track record in high-pressure healthcare environments.
+    Proficient in frontend and backend development, with a keen eye for detail and a commitment to delivering high-quality code. </p>
+    </div></div>
     )
   }
   
