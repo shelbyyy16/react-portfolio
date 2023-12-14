@@ -1,8 +1,17 @@
-# React + Vite
+# Shelby Pagan Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This portfolio showcases my skills, projects, and experiences as a Software Engineer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Check out my portfolio [Here](https://shelbypagan.netlify.app/)
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+## Acknowledgements
+## References for your inspiration/sources
+## A list of future features
