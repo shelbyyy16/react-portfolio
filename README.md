@@ -1,8 +1,8 @@
 # Shelby Pagan Portfolio
 
-## Description
-
 This portfolio showcases my skills, projects, and experiences as a Software Engineer.
+
+![Screenshot](/public/images/portfolioscreenshot.png)
 
 # Check out my portfolio [Here](https://shelbypagan.netlify.app/)
 
@@ -22,3 +22,9 @@ This portfolio showcases my skills, projects, and experiences as a Software Engi
 - Add a contact form
 - Create one scrolling page
 - Animated transitions
+- Add a downloadable Resume feature
+
+## Contact
+
+- Email: shelby.e.pagan.gmail.com
+- LinkedIn: [Click-Here](www.linkedin.com/in/shelbypagan)
