@@ -1,4 +1,4 @@
-# Shelby Pagan Portfolio
+# Shelby Pagan's Portfolio
 
 This portfolio showcases my skills, projects, and experiences as a Software Engineer.
 
