@@ -2,7 +2,7 @@
 
 This portfolio showcases my skills, projects, and experiences as a Software Engineer.
 
-
+![Screenshot](/public/images/portfolioscreenshot.png)
 
 # Check out my portfolio [Here](https://shelbypagan.netlify.app/)
 
