@@ -26,6 +26,9 @@ function Header() {
         <Link to="/contact">
           <div className="contact-nav">CONTACT</div>
         </Link>
+        <Link to="/resume"> 
+            <div className="resume-nav">RESUME</div>
+          </Link>
       </nav>
       </div>
     </header>
