@@ -8,11 +8,11 @@
     },
 
     {
-      "name": "Project 3",
-      "live": "https://shelbyyy16.github.io/Cart-Quest-Browser-Game/",
-      "git": "https://github.com/shelbyyy16/Cart-Quest-Browser-Game",
-      "description": "Project 3 description goes here",
-      "image": ""
+      "name": "Portfolio",
+      "live": "https://shelbypagan.netlify.app/",
+      "git": "https://github.com/shelbyyy16/react-portfolio",
+      "description": "This portfolio showcases my skills, projects, and experiences as a Software Engineer.",
+      "image": "/images/portfolioscreenshot.png"
     },
     {
       "name": "Project 4",
