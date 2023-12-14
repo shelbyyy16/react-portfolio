@@ -27,4 +27,4 @@ This portfolio showcases my skills, projects, and experiences as a Software Engi
 ## Contact
 
 - Email: shelby.e.pagan.gmail.com
-- LinkedIn: [Click-Here](www.linkedin.com/in/shelbypagan)
+- LinkedIn: [Click-Here](https://www.linkedin.com/in/shelbypagan/)
