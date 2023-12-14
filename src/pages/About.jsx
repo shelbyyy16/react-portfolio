@@ -29,7 +29,7 @@ function About() {
     </div>
   </div>
   );
-  return about ? loaded() : <h1>Loading...</h1>;
+  return about ? loaded() : <h1></h1>;
 }
 
 export default About;

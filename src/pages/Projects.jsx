@@ -41,7 +41,7 @@ function Projects() {
     )));
   };
 
-  return projects ? loaded() : <h1>Loading...</h1>;
+  return projects ? loaded() : <h1></h1>;
 }
 
 export default Projects;
