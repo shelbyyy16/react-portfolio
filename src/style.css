@@ -20,6 +20,16 @@ body {
   line-height: 1.5;
   font-weight: 400;
   margin: 0;
+  min-height: 100vh;
+}
+
+.footer {
+  font-family: 'Abel', sans-serif;
+  font-size: small;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 /* NAV BAR */
@@ -85,8 +95,8 @@ body {
   padding: 20px;
   background-color: #20251f;
   border-radius: 5px;
-  border: 1px solid black;
   width: 700px;
+  box-shadow: 10px 10px 4px #273427;
 }
 
 .projects h1 {
@@ -126,6 +136,39 @@ body {
 }
 
 /* ABOUT ME PAGE */
+
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  margin: 5% auto;
+  padding: 20px;
+  background-color: #20251f;
+  border-radius: 5px;
+  width: 700px;
+  box-shadow: 10px 10px 4px #273427;
+}
+
+.about-me h2 {
+  font-family: 'Anton', sans-serif;
+  font-size: 40px;
+  margin: 0;
+  color: #9d9f96;
+}
+
+.about-img {
+  height: 25%;
+  width: 25%;
+  border-radius: 5px;
+  margin-right: 20px; /* Adjust the margin to create space between the image and text */
+}
+
+.name {
+  font-family: 'Anton', sans-serif;
+  font-size: xx-large;
+  margin: 0;
+}
 
 
 @media (prefers-color-scheme: light) {

@@ -1,5 +1,5 @@
 function Footer() {
-    return <h1></h1>;
+    return <div className="footer">Designed & Built by Shelby Pagan 2023</div>;
   }
   
   export default Footer;

@@ -6,11 +6,19 @@
       "description": "Cart Quest is a memory game where you must remember and repeat a sequence of grocery items. It keeps track of your wins and losses and offers increasingly challenging levels as you progress through the game. Messages are displayed to guide you, and buttons appear and disappear to control your interactions.",
       "image": "/images/Cart Screenshot.png"
     },
+
     {
-      "name": "Joystick Jury",
+      "name": "Project 3",
       "live": "https://shelbyyy16.github.io/Cart-Quest-Browser-Game/",
-      "git": "https://github.com/BrObando/Project-2",
-      "description": "",
-      "image": "/images/joystickJury.png"
+      "git": "https://github.com/shelbyyy16/Cart-Quest-Browser-Game",
+      "description": "Project 3 description goes here",
+      "image": ""
+    },
+    {
+      "name": "Project 4",
+      "live": "https://shelbyyy16.github.io/Cart-Quest-Browser-Game/",
+      "git": "https://github.com/shelbyyy16/Cart-Quest-Browser-Game",
+      "description": "Project 4 description goes here",
+      "image": ""
     }
   ]
