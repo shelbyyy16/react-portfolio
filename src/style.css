@@ -154,13 +154,14 @@ body {
   border-radius: 5px;
   width: 700px;
   box-shadow: 10px 10px 4px #273427;
+  color: #9d9f96;
 }
 
 .about-me h2 {
   font-family: 'Anton', sans-serif;
   font-size: 40px;
   margin: 0;
-  color: #9d9f96;
+  color: #ECE3CE;
 }
 
 .about-img {
