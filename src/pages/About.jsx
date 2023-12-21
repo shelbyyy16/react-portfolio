@@ -21,13 +21,16 @@ function About() {
 
 
   const loaded = () => (
-    <div className="about">
+    <>
+    <div className="spacer"></div>
+    <div id="about" className="about">
     <img src={about.headshot} className="about-img" alt={about.name} />
     <div className="about-me">
       <h2>Here is a little about me.</h2>
       <p>{about.bio}<span className="highlight"></span></p>
     </div>
   </div>
+  </>
   );
   return about ? loaded() : <h1></h1>;
 }

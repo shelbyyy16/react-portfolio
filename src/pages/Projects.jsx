@@ -26,7 +26,7 @@ function Projects() {
 
   const loaded = () => {
     return (projects.map((project) => (
-      <div key={project.id} className="projects">
+      <div id="projects" key={project.id} className="projects">
         <h2>{project.name}</h2>
         <img src={project.image} alt={project.name} className="projects-img"/>
         <br></br>

@@ -44,6 +44,11 @@ html {
   padding: 10px; 
 }
 
+.spacer {
+  height: 300px;
+  width: 100%;
+}
+
 /* NAV BAR */
 
 .NAV {

@@ -12,24 +12,19 @@ function Header() {
   
   return (
     <header>
-      <div className="NAV">
-      <nav style={navStyle}>
-        <Link to="/">
-          <div className="home-nav">HOME</div>
-        </Link>
-        <Link to="/about">
-          <div className="about-nav">ABOUT</div>
-        </Link>
-        <Link to="/projects">
-          <div className="projects-nav">PROJECTS</div>
-        </Link>
-        <Link to="/contact">
-          <div className="contact-nav">CONTACT</div>
-        </Link>
-        <a href="/resume/Shelby-Pagan-Resume.pdf" target="_blank" rel="noopener noreferrer" className="resume-nav">
-        RESUME
-      </a>
-      </nav>
+      <div className="NAV" style={navStyle}>
+        <div className="home-nav">HOME</div>
+        <div className="about-nav">ABOUT</div>
+        <div className="projects-nav">PROJECTS</div>
+        <div className="contact-nav">CONTACT</div>
+        <a
+          href="/resume/Shelby-Pagan-Resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="resume-nav"
+        >
+          RESUME
+        </a>
       </div>
     </header>
   );
