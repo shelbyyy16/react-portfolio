@@ -22,7 +22,7 @@ This portfolio showcases my skills, projects, and experiences as a Software Engi
 - Add a contact form
 - Create one scrolling page
 - Animated transitions
-- Add a downloadable Resume feature
+
 
 ## Contact
 
