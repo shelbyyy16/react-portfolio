@@ -24,9 +24,6 @@ body {
   padding-bottom: 40px;
 
 }
-html {
-  scroll-behavior: smooth;
-}
 
 .App {
   min-height: 100vh;
