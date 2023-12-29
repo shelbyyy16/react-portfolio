@@ -5,9 +5,7 @@ function Contact() {
     <div className="contact">
       <h2>Let's chat.</h2>
       <div className="home-about">
-        <p>Email: Shelby.E.Pagan@gmail.com</p>
-        <div className='contact-buttons-container'><a href="https://www.linkedin.com/in/shelbypagan/" target="_blank" rel="noopener noreferrer" className='contact-button'>LinkedIn</a>
-        <a href="https://github.com/shelbyyy16" target="_blank" rel="noopener noreferrer" className='contact-button'>Github</a></div>
+        <p>Feel free to reach out via email at shelby.e.pagan@gmail.com or find me on <a href="https://www.linkedin.com/in/shelbypagan/" target="_blank" rel="noopener noreferrer" className='contact-link'>LinkedIn</a> and <a href="https://github.com/shelbyyy16" target="_blank" rel="noopener noreferrer" className='contact-link'>Github</a>. Let's chat and explore the exciting intersection of technology and creativity! 🌱</p>
       </div>
     </div>
   );

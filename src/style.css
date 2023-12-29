@@ -203,7 +203,7 @@ html {
 
 /* CONTACT PAGE */
 
-.contact{
+.contact {
   margin: 0;
   margin-left: 10%;
   margin-top: 15%;
@@ -214,6 +214,24 @@ html {
   border-radius: 5px;
   width: 700px;
   box-shadow: 10px 10px 4px #273427;
+
+  a {
+    font-weight: 500;
+    color: #ece3ce;
+    text-decoration: inherit;
+  }
+
+  a:hover {
+    color: #ece3ce;
+    font-style: italic;
+  }
+
+  p {
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .contact h2 {
@@ -224,23 +242,7 @@ html {
   color: #ECE3CE;
 }
 
-.contact-buttons-container {
-  display: flex;
-  gap: 10px; 
-} 
-.contact-button {
-  padding: 5px;
-  margin: 5px;
-  background-color: #3A4D39;
-  color: #ECE3CE;
-  border: 2px solid #ECE3CE;
-  border-radius: 5px;
-  cursor: pointer;
-}
-.contact-button:hover {
-  background-color: #ECE3CE;
-  color: #3A4D39;
-}
+
 
 
 @media (prefers-color-scheme: light) {
