@@ -18,7 +18,7 @@
       "name": "Portfolio",
       "live": "https://shelbypagan.netlify.app/",
       "git": "https://github.com/shelbyyy16/react-portfolio",
-      "description": "This portfolio showcases my skills, projects, and experiences as a Software Engineer.",
+      "description": "A well structured portfolio built using React showcasing my professional journey, skills, and project accomplishments. It integrates design and functionality, providing an engaging and informative user experience.",
       "image": "/images/portfolioscreenshot.png"
     }
   ]

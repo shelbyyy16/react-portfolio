@@ -53,11 +53,13 @@ body {
   border-bottom: .1rem solid black;
   font-size: large;
   height: 40px;
-  display: "flex";
+  display: flex;
   justify-content: space-around;
   padding-bottom: 20px;
   width: 100%;
   margin: auto;
+  position: sticky;  
+  top: 0;  
 }
 
 .projects-nav, .home-nav, .about-nav, .contact-nav {
@@ -105,7 +107,8 @@ body {
 
 .home-about {
   width: 25%;
-  color: #9d9f96;
+  color: #ECE3CE;
+  font-size: large;
 }
 
 .highlight {
@@ -114,9 +117,10 @@ body {
 
 
 /* PROJECT PAGE */
-.projects {
+
+.carousel-container {
+  width: 50%;
   text-align: center; 
-  display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center; 
@@ -124,7 +128,6 @@ body {
   padding: 20px;
   background-color: #20251f;
   border-radius: 5px;
-  width: 700px;
   box-shadow: 10px 10px 4px #273427;
 }
 
@@ -136,9 +139,10 @@ body {
   color: #ECE3CE}
 
 .projects-img {
-  height: 320px;
-  width: 600px;
+  height: 400px;
+  width: 700px;
   border-radius: 10px;
+  margin: 0 auto;
 }
 
 .projects a {
@@ -178,9 +182,10 @@ body {
   padding: 20px;
   background-color: #20251f;
   border-radius: 5px;
-  width: 700px;
+  width: 1050px;
   box-shadow: 10px 10px 4px #273427;
-  color: #9d9f96;
+  color:  #ECE3CE;
+  font-size: large;
 }
 
 .about-me h2 {
@@ -191,8 +196,8 @@ body {
 }
 
 .about-img {
-  height: 25%;
-  width: 25%;
+  height: 35%;
+  width: 35%;
   border-radius: 5px;
   margin-right: 20px; 
 }
