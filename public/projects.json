@@ -1,5 +1,12 @@
 [
   {
+    "name": "SPL/T",
+    "live": "https://split-expense-deploy-b0bffae153fd.herokuapp.com/",
+    "git": "https://github.com/shelbyyy16/Capstone-Project",
+    "description": "Effortless Expense Splitting for Seamless Friendships – Share the Load, Not the Stress! A Django and Python powered application to take the confusion and fuss out of splitting expenses. Create Groups with your friends, add expenses and divide evenly; keeping the process quick, easy and fair.",
+    "image": "/images/landingpage.png"
+  },
+  {
     "name": "Petals & Pots",
     "live": "https://petalsandpots.netlify.app",
     "git": "https://github.com/shelbyyy16/Project-3",
