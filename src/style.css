@@ -83,19 +83,19 @@ html {
 /* HOME PAGE */
 
 .home {
-  display: flex; /* Use flexbox to create a horizontal layout */
-  justify-content: space-between; /* Space elements evenly along the main axis */
+  display: flex; 
+  justify-content: space-between; 
   margin: 0;
   margin-left: 10%;
   margin-top: 15%;
 }
 
 .intro {
-  width: 45%; /* Adjust the width of the intro div */
+  width: 50%;
 }
 
 .about-me {
-  width: 45%; /* Adjust the width of the about-me div */
+  width: 50%; 
 }
 
 .home h1 {
@@ -165,81 +165,7 @@ html {
   margin-right: 10px; 
 }  */
 
-/* ABOUT ME PAGE */
 
-.about {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: left;
-  margin: 5% auto; 
-  margin-bottom: 30%;
-  padding: 20px;
-  background-color: #20251f;
-  border-radius: 5px;
-  width: 1048px;
-  box-shadow: 10px 10px 4px #273427;
-  color: #9d9f96;
-}
-
-.about-me h2 {
-  font-family: 'Anton', sans-serif;
-  font-size: 40px;
-  margin: 0;
-  color: #ECE3CE;
-}
-
-.about-img {
-  height: 25%;
-  width: 25%;
-  border-radius: 5px;
-  margin-right: 20px; 
-}
-
-.name {
-  font-family: 'Anton', sans-serif;
-  font-size: xx-large;
-  margin: 0;
-} */
-
-/* CONTACT PAGE */
-
-.contact {
-  margin: 15% auto 30%; 
-  padding: 20px;
-  background-color: #20251f;
-  border-radius: 5px;
-  width: 40%; 
-  box-shadow: 10px 10px 4px #273427;
-  position: relative;
-}
-
-.contact a {
-  font-weight: 500;
-  color: #ece3ce;
-  text-decoration: inherit;
-}
-
-.contact a:hover {
-  color: #ece3ce;
-  font-style: italic;
-}
-
-.contact p {
-  text-align: left;
-  margin: 0 auto; 
-  font-size: large;
-  color:  #9d9f96;
-
-}
-
-.contact h2 {
-  margin-bottom: 15px;
-  margin-top: 0px;
-  font-family: 'Anton', sans-serif;
-  font-size: 40px;
-  color: #ECE3CE;
-} */
 
 
 
