@@ -83,9 +83,19 @@ html {
 /* HOME PAGE */
 
 .home {
+  display: flex; /* Use flexbox to create a horizontal layout */
+  justify-content: space-between; /* Space elements evenly along the main axis */
   margin: 0;
   margin-left: 10%;
   margin-top: 15%;
+}
+
+.intro {
+  width: 45%; /* Adjust the width of the intro div */
+}
+
+.about-me {
+  width: 45%; /* Adjust the width of the about-me div */
 }
 
 .home h1 {
@@ -99,15 +109,6 @@ html {
   font-size: 60px;
   color: #9d9f96;
   margin: 0;
-}
-
-.home-about {
-  width: 25%;
-  color: #9d9f96;
-}
-
-.highlight {
-  color: #ECE3CE;
 }
 
 
@@ -162,7 +163,7 @@ html {
 .button-container button {
   display: inline-block;
   margin-right: 10px; 
-}
+}  */
 
 /* ABOUT ME PAGE */
 
@@ -199,7 +200,7 @@ html {
   font-family: 'Anton', sans-serif;
   font-size: xx-large;
   margin: 0;
-}
+} */
 
 /* CONTACT PAGE */
 
@@ -238,7 +239,7 @@ html {
   font-family: 'Anton', sans-serif;
   font-size: 40px;
   color: #ECE3CE;
-}
+} */
 
 
 
